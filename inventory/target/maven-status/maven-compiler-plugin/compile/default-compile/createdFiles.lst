@@ -1,0 +1,5 @@
+com/redhat/coolstore/InventoryResource$ErrorMapper.class
+com/redhat/coolstore/InventoryHealthCheck.class
+META-INF/panache-archive.marker
+com/redhat/coolstore/Inventory.class
+com/redhat/coolstore/InventoryResource.class
